@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.112.105.205:8080/idw_update/20.022/ios/ivideogame_v20.022.ipa</string>
+					<string>http://120.79.66.81:8080/idw_update/20.022/ios/ivideogame_v20.022.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.112.105.205:8080/idw_update/download/ios.png</string>
+					<string>http://120.79.66.81:8080/idw_update/download/ios.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
